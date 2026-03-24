@@ -46,4 +46,4 @@ jobs:
         run: pip install ruff
 
       - name: Run ruff
-        run: ruff .
+        run: ruff check Javiera_Sobarzo.
